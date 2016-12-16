@@ -13,6 +13,7 @@ public class Main {
 		System.out.println("This is to display some cricket players...!");
 		
 		System.out.println("Test 1");
+		System.out.println("Test 2");
 	}
 
 }
